@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/filteredls.js" libraries="{Node.js Globals, Node.js v0.10.32 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/firstasyncio.js" libraries="{Node.js Globals, Node.js v0.10.32 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/firstio.js" libraries="{Node.js Globals, Node.js v0.10.32 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/httpcollect.js" libraries="{Node.js Globals, Node.js v0.10.32 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/httpget.js" libraries="{Node.js Globals, Node.js v0.10.32 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/jugglingasync.js" libraries="{Node.js Globals, Node.js v0.10.32 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/modules/filteredls.js" libraries="{Node.js Globals, Node.js v0.10.32 Core Modules}" />
+    <file url="file://$PROJECT_DIR$/modules/myModule.js" libraries="{Node.js Globals, Node.js v0.10.32 Core Modules}" />
+  </component>
+</project>
