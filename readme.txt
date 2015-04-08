@@ -1,2 +1,2 @@
-Repo for Node Workshop projects
+Repo for Node Workshop - Learnyounode project files
 
